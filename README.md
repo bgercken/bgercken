@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @bgercken (Bill Gercken)
 - 👀 I’m interested in transfer learning and everything LLM, ultra distance cycling, bikepacking, rock climbing, and the outdoors.
-- 💞️ I’m looking to collaborate on life, sharing knowledge and improving the world.
+- 💞️ I’m looking to collaborate sharing knowledge and improving the world.
 - 📫 How to reach me ... bgercken at gmail dot com.
 - ⚡ Fun fact: I used to aspire to be a dirtbag like Fred Beckey but then I met a girl.
 
